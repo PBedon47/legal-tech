@@ -1,0 +1,5 @@
+:root { --accent: #0ea5a4; --muted:#6b7280; }
+body { margin: 0; font-family: Inter, Arial, sans-serif; background:#f6f8fa; color:#111; }
+a { color: var(--accent); text-decoration: none; }
+.container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+.card { background: white; padding: 12px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.06); }
